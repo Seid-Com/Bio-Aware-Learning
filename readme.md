@@ -5,7 +5,6 @@
 TA-BC-BFL: 
 This repository contains:
 - A **Python simulation** of the TA-BC-BFL framework with Streamlit dashboard
-- The **paper experiment suite** (`experiments.py`) and its committed reference results
 - **CI** (GitHub Actions), **Docker** support, and a comprehensive **test suite** (112 tests)
 
 ## Stack
