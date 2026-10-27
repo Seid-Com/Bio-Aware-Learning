@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.git
+.gitignore
+.env*
+node_modules/
+dist/
+.cache/
+.local/
+.venv/
+venv/
+*.egg-info/
+*.md
+!simulation/
